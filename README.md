@@ -1,7 +1,7 @@
-LLM Stock Checker
+LLM Data Parser
 ==================
 
-This proof-of-concept script demonstrates how to use a language model (LLM) to find and extract meaningful data related to product stock and availability without extensive HTML parsing. It uses the Langchain library to achieve this goal.
+This proof-of-concept script demonstrates how to use a language model (LLM) like GPT-3 or GPT-4 to find and extract meaningful data from HTML data without extensive HTML parsing, in this case is extracting relelvant data related to product stock and availability from a list of webpages. It uses the Langchain library to achieve this goal.
 
 Installation
 ------------
